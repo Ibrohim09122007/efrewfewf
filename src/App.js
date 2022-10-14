@@ -5,10 +5,8 @@ function App() {
     <>
       <Header />
       <Header />
-      
       <Header />
     </>
-    package
   );
 }
 
